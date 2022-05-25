@@ -1,0 +1,53 @@
+.nav{
+
+display: inline-flex;
+justify-content: center;
+
+}
+div{
+    background-color: rgb(67, 66, 66);
+}
+
+.nav-title{
+    color: aliceblue;
+    display: flex;
+    margin-right: 1250px;
+    margin-left:5px ;
+
+}
+a{
+    text-decoration: none;
+}
+.nav-links a{
+    text-align:center;
+    color: rgb(255, 255, 255) ;
+    text-align: right;
+   margin-top: 17px;
+}
+
+
+
+li, ul{
+    display: flex;
+    margin: 12px;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+background-color: rgb(179, 234, 234);
+height: 20px;
+margin-top: 17px;
+box-shadow: 1px 2px 5px 1px;
+
+}
+
+.active{
+    font-weight:bold ;
+    color: rgb(255, 255, 255);
+}
+   
+
